@@ -41,3 +41,7 @@ The firmware is already compiled and ready to upload onto your Micro, but you'd 
 
   - [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
   - [Installing Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
+
+## Inquiries:
+
+Please contact "Print@MakerGear.com" if you have any questions, concerns, or even general feedback on the project! 
