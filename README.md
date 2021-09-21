@@ -23,12 +23,12 @@ This project is still very much in its early stages, and we have many improvemen
 
 ## Hardware:
 
-* [Non-Printed Parts](https://github.com/Garr-R/MakerGear_Micro/tree/main/Hardware)
-* [Printed Parts](https://github.com/Garr-R/MakerGear_Micro/tree/main/Hardware/STL_Files)
+* [Non-Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware)
+* [Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware/STL_Files)
 * Tools/Wiring
 
 ## Printer Slicing Profiles:
-[Simplify3D](https://github.com/Garr-R/MakerGear_Micro/tree/main/Slicing_Profiles/Simplify3D) | Cura (Coming soon) | PrusaSlicer (Coming soon)
+[Simplify3D](https://github.com/MakerGear/MakerGear_Micro/tree/main/Slicing_Profiles/Simplify3D) | Cura (Coming soon) | PrusaSlicer (Coming soon)
 
 ## USB Driver:
 
