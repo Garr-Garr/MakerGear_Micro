@@ -15,7 +15,7 @@ This project is still very much in its early stages, and we have many improvemen
 
 ## User Guides:
 
-<img align="right" width=350 src="https://user-images.githubusercontent.com/52166834/134219779-6bb112bb-446b-4136-b951-dec10d60e87c.jpg" />
+<img align="right" width=450 src="https://user-images.githubusercontent.com/52166834/134385298-a70c612d-baaa-4155-bc5d-2f4f445e20eb.jpg" />
 
 * [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/tree/main/Guides/Mechanical_Assembly_Guide.pdf)
 * Wiring Guide (Coming soon)
