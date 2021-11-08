@@ -6,7 +6,7 @@
 
 This 3D printed 3D printer is designed to be a fun, inexpensive, and easy to build open source project for anyone & everyone! With so many of our customers being in education, we set out to create the perfect tool for STEM education that not only encourages students to use their school's 3D printers, but also helps them better understand the mechanics and technology behind them. Not only do we want users to be able to make their own 3D printer, but we want them to be able to make these printers their own! Use any filament, any color, and due to its compact design, it can be printed on (nearly) ANY midsize desktop 3D printer! We have also included the STEP files so feel free to improve or modify this design for whatever parts you may already have on hand.
 
-This project is still very much in its early stages, and we have many improvements and more guides already in the works. With the help & feedback of the 3D printing community, we hope to further increase this project's accessibility so that kids of any age or adults with little to no experience can enjoy making their own 3D printer. So please take a look around and maybe try the build for yourself, and if you're up to it, get your kids, or grandkids, or nieces & nephews involved.  
+With the help & feedback of the 3D printing community, we hope to further increase this project's accessibility so that kids of any age or adults with little to no experience can enjoy making their own 3D printer. So please take a look around and maybe try the build for yourself, and if you're up to it, get your kids, or grandkids, or nieces & nephews involved.  
 
 3D Printing has been & ALWAYS will be a community. Together we can make the world a better place.
 
