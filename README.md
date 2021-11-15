@@ -17,7 +17,7 @@ With the help & feedback of the 3D printing community, we hope to further increa
 
 <img align="right" width=450 src="https://user-images.githubusercontent.com/52166834/134385298-a70c612d-baaa-4155-bc5d-2f4f445e20eb.jpg" />
 
-* [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/tree/main/Guides/Mechanical_Assembly_Guide.pdf)
+* [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Micro%20Mechanical%20Assembly%20Guide.pdf)
 * Wiring Guide (Coming soon)
 * Video Guides (Coming soon)
 
