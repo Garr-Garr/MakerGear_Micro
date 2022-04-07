@@ -17,18 +17,25 @@ With the help and feedback of the 3D printing community, we hope to further incr
 
 <img align="right" width=450 src="https://user-images.githubusercontent.com/52166834/134385298-a70c612d-baaa-4155-bc5d-2f4f445e20eb.jpg" />
 
-* [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Micro%20Mechanical%20Assembly%20Guide.pdf)
-* Wiring Guide (Coming soon)
-* Video Guides (Coming soon)
+### Built from MakerGear Kit:
+
+* [Getting Started Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Kit/MICRO%20Getting%20Started%20Guide%20(kit).pdf)
+* [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Kit/MICRO%20Mechanical%20Assembly%20Guide%20(kit).pdf)
+* [Wiring Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Kit/MICRO%20Wiring%20Guide%20(kit).pdf)
+
+### Built from scratch:
+
+* [Getting Started Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Scratch/MICRO%20Getting%20Started%20Guide%20(scratch).pdf)
+* [Mechanical Assembly Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Scratch/MICRO%20Mechanical%20Assembly%20Guide%20(scratch).pdf)
+* [Wiring Guide](https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Built_From_Scratch/MICRO%20Wiring%20Guide%20(scratch).pdf)
 
 ## Hardware:
 
-* [Non-Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware)
 * [Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware/STL_Files)
-* Tools/Wiring
 
 ## Printer Slicing Profiles:
-[Simplify3D](https://github.com/MakerGear/MakerGear_Micro/tree/main/Slicing_Profiles/Simplify3D) | PrusaSlicer (Coming soon) | Cura (Coming soon) | 
+* [Simplify3D](https://github.com/MakerGear/MakerGear_Micro/tree/main/Slicer_Profiles/Simplify3D)
+* [PrusaSlicer](https://github.com/MakerGear/MakerGear_Micro/tree/main/Slicer_Profiles/PrusaSlicer)
 
 ## USB Driver:
 
