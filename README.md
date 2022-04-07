@@ -31,7 +31,7 @@ With the help and feedback of the 3D printing community, we hope to further incr
 
 ## Hardware:
 
-* [Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware/STL_Files)
+* [Printed Parts](https://github.com/MakerGear/MakerGear_Micro/tree/main/Hardware)
 
 ## Printer Slicing Profiles:
 * [Simplify3D](https://github.com/MakerGear/MakerGear_Micro/tree/main/Slicer_Profiles/Simplify3D)
